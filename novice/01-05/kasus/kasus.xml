@@ -1,0 +1,11 @@
+
+<kartuNama>
+    <nama>pradana yoga</nama>
+    <jenisKelamin>Laki-laki</jenisKelamin>
+    <alamat>Jogjakarta</alamat>
+    <ponsel>082143932513</ponsel>
+    <surel>pradana19@gmail.com</surel>
+    <hobi name="music"/>
+    <hobi name="bola"/>
+    
+</kartuNama>

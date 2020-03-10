@@ -1,0 +1,16 @@
+{ 
+  "satu" : {
+    "nama"  : "pradana",
+    "jenisKelamin"  : "laki-laki",
+    "alamat"    : "sekarsuli",
+    "HP" : "082143932513",
+    "email" : "pradana19@gmail.com"
+  },
+  "dua" : {
+    "nama"  : "yoga",
+    "jenisKelamin"  : "laki-laki",
+    "alamat"    : "jogja",
+    "HP" : "082143939098",
+    "email" : "yoga@gmail.com"
+  }
+}
