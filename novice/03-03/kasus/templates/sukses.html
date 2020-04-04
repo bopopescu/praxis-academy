@@ -1,0 +1,8 @@
+{% extends "main_layout.html" %}
+{% block content %}
+<ol>
+    {% for n in ls %}
+    <li>{{ n }}</li>
+    {% endfor %}
+</ol>
+{% endblock %}

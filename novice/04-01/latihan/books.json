@@ -1,0 +1,16 @@
+{
+    "books" : [
+        {
+            "id" : 1,
+            "title": "Literasi digital"
+        },
+        {
+            "id" : 2,
+            "title": "Seni untuk bersikap bodo amat"
+        },
+        {
+            "id" : 3,
+            "title": "Dilan 1990"
+        }
+    ]
+}
